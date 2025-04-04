@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+}
+h1{
+    font-size: medium;
+    color: cornflowerblue;
+}
+div{
+    font-size: 40;
+    font-style: italic;
+}
